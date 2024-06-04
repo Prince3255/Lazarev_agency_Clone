@@ -2064,6 +2064,9 @@ summary i {
         height: 40vh;
     }
 
+    #page13 {
+        z-index: 8;
+    }
     #page13 #circle12 {
         top: 8vh;
         left: 78vw;
