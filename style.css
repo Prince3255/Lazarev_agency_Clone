@@ -2116,6 +2116,7 @@ summary i {
     }
     .page16Left {
         height: 20vh;
+        z-index: 8;
     }
     .page16Left #circle12 {
         opacity: 1;
@@ -2140,6 +2141,7 @@ summary i {
     .page16Right {
         height: 36vh;
         width: 100%;
+        z-index: 8;
     }
     .page16p1 {
         height: 18%;
@@ -2151,6 +2153,13 @@ summary i {
     }
     .page16p2 .span1 {
         display: inline;
+    }
+
+    #page16p3 {
+        z-index: 8;
+    }
+    #page16p2 {
+        z-index: 8;
     }
 }
 @media screen and (max-width: 1160px) {
