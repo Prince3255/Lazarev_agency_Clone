@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a clone of the Lazarev Agency website, built to practice web development skills. The project includes HTML, CSS, JavaScript , gsap to replicate the design and functionality of the original site.
+This is a clone of the Lazarev Agency website, built to practice web development skills. The project includes HTML, CSS, JavaScript , gsap and it's responsive to replicate the design and functionality of the original site.
 
 ## Table of Contents
 
