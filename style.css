@@ -2057,6 +2057,9 @@ summary i {
         margin-top: 5vw;
     }
 
+    #page12 {
+        z-index: 8;
+    }
     .page12-bottom {
         height: 40vh;
     }
@@ -2089,9 +2092,14 @@ summary i {
         height: 50vh;
     }
 
+    #page14 {
+        z-index: 8;
+    }
+
     #page15 {
         height: 80vh;
         flex-flow: column;
+        z-index: 8;
     }      
     .page15Left {
         width: 100%;
