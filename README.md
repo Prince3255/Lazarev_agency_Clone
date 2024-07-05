@@ -34,7 +34,7 @@ Ensure all files and folders are in the same directory structure as mentioned ab
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-    git clone https://github.com/Prince3255/lazarev-agency-clone.git
+    git clone https://github.com/Prince3255/Lazarev_agency_Clone.git
 
 2. **Navigate to the project directory**:
     cd lazarev-agency-clone
