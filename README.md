@@ -11,7 +11,6 @@ This is a clone of the Lazarev Agency website, built to practice web development
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Features
 
@@ -67,10 +66,4 @@ If you would like to contribute to this project, please follow these steps:
     git push origin new-feature
    
 6. **Submit a pull request.**
-
-## Contact
-
-If you have any questions, feel free to contact me at:
-
-- GitHub: [Prince3255](https://github.com/Prince3255)
 
