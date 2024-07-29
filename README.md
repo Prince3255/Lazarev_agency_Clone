@@ -7,6 +7,7 @@ This is a clone of the Lazarev Agency website, built to practice web development
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#Demo)
 - [Project Structure](#structure)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,6 +19,10 @@ This is a clone of the Lazarev Agency website, built to practice web development
 - Contains elements such as navigation menus and buttons.
 - Styled using modern CSS techniques.
 - Organized and clean code structure.
+
+## Demo
+
+Explore the live version of Globe Talks: [Lazarev Agency](https://prince3255.github.io/Lazarev_agency_Clone/)
 
 ### Project Structure
 
