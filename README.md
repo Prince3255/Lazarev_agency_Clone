@@ -22,7 +22,7 @@ This is a clone of the Lazarev Agency website, built to practice web development
 
 ## Demo
 
-Explore the live version of Globe Talks: [Lazarev Agency](https://prince3255.github.io/Lazarev_agency_Clone/)
+Explore the live version of Lazarev Agency: [Lazarev Agency](https://prince3255.github.io/Lazarev_agency_Clone/)
 
 ### Project Structure
 
